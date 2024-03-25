@@ -8,3 +8,13 @@ Z:\Documents\семестр 6\ООАП\OOAP.Facade\lab2nopattern\lab2nopattern\o
 Z:\Documents\семестр 6\ООАП\OOAP.Facade\lab2nopattern\lab2nopattern\obj\Debug\lab2nopattern.csproj.CoreCompileInputs.cache
 Z:\Documents\семестр 6\ООАП\OOAP.Facade\lab2nopattern\lab2nopattern\obj\Debug\lab2nopattern.exe
 Z:\Documents\семестр 6\ООАП\OOAP.Facade\lab2nopattern\lab2nopattern\obj\Debug\lab2nopattern.pdb
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Facade\lab2nopattern\lab2nopattern\bin\Debug\lab2nopattern.exe.config
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Facade\lab2nopattern\lab2nopattern\bin\Debug\lab2nopattern.exe
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Facade\lab2nopattern\lab2nopattern\bin\Debug\lab2nopattern.pdb
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Facade\lab2nopattern\lab2nopattern\obj\Debug\lab2nopattern.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Facade\lab2nopattern\lab2nopattern\obj\Debug\lab2nopattern.Form1.resources
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Facade\lab2nopattern\lab2nopattern\obj\Debug\lab2nopattern.Properties.Resources.resources
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Facade\lab2nopattern\lab2nopattern\obj\Debug\lab2nopattern.csproj.GenerateResource.cache
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Facade\lab2nopattern\lab2nopattern\obj\Debug\lab2nopattern.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Facade\lab2nopattern\lab2nopattern\obj\Debug\lab2nopattern.exe
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.Facade\lab2nopattern\lab2nopattern\obj\Debug\lab2nopattern.pdb
